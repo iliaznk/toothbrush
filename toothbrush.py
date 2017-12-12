@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import sys, tty, termios, subprocess, os, json, glob
+import sys, tty, termios, subprocess, os, json, glob, codecs
 
 import clipboard
 
